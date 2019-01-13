@@ -191,6 +191,44 @@
             }
         },
         {
+            "Key": "541c97fa-90f6-41c5-8e08-ced841b3baff",
+            "Value": {
+                "id": "33859996-64dd-4bde-a2a8-5dab66048cbe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_spawner\/obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "63bcacfa-90a5-4668-a050-1554d2153a28",
+            "Value": {
+                "id": "d20e5bce-1164-48df-ba72-ef5fff57aa8f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_enemyspawn\/obj_enemyspawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68db20b7-2761-4f93-9dd3-1babcab66354",
             "Value": {
                 "id": "8abade75-cf0a-4272-9ebf-f760d93a7b03",
